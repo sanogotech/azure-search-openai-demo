@@ -35,6 +35,7 @@ The repo includes sample data so it's ready to try end to end. In this sample ap
 
 ![RAG Architecture](docs/appcomponents.png)
 
+
 ## Features
 
 * Chat and Q&A interfaces
@@ -45,6 +46,13 @@ The repo includes sample data so it's ready to try end to end. In this sample ap
 
 ![Chat screen](docs/chatscreen.png)
 
+
+##  Docs
+
+
+- https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-scaling-with-azure-container-apps?tabs=github-codespaces%2Cinitial-deployment
+- https://www.galileo.ai/blog/mastering-rag-how-to-architect-an-enterprise-rag-system
+  
 ## Azure account requirements
 
 **IMPORTANT:** In order to deploy and run this example, you'll need:
